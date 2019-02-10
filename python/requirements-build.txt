@@ -1,6 +1,7 @@
 six>=1.0.0
 numpy>=1.14
 futures; python_version < "3.2"
+cython
 pandas
 pytest
 hypothesis
