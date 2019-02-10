@@ -1,0 +1,7 @@
+six>=1.0.0
+numpy>=1.14
+futures; python_version < "3.2"
+pandas
+pytest
+hypothesis
+pathlib2; python_version < "3.4"
